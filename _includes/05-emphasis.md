@@ -1,0 +1,4 @@
+- *Italic*
+- _Italic_
+- **Bold**
+  - _**Italic and Bold**_
